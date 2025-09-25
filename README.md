@@ -5,9 +5,9 @@
 </h1>
 
 - 👋 Hi, I’m @MDC
-- 👀 I’m interested in game developing
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on making video games
+- 👀 I’m interested in...
+- 🌱 I’m currently learning...
+- 💞️ I’m looking to collaborate on making software
 - 📫 How to reach me: <manh.dev1517@gmail.com>
 
 <div align="left">
